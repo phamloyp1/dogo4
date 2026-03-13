@@ -52,7 +52,9 @@ width:50%;
 }
 
 .product-img img{
-width:100%;
+width:50%;
+display:block;
+margin:auto;
 }
 
 footer{
